@@ -61,7 +61,7 @@
                                                 <rect key="frame" x="157" y="107.5" width="100" height="50"/>
                                                 <color key="backgroundColor" red="0.90588235289999997" green="0.29803921570000003" blue="0.23529411759999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="width" constant="100" id="48y-lV-KeT"/>
+                                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="100" id="48y-lV-KeT"/>
                                                     <constraint firstAttribute="height" constant="50" id="Bqa-mX-JcV"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
